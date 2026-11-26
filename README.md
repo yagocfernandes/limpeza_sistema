@@ -1,4 +1,4 @@
-# 🧹 Limpeza de Sistema | Windows Native Maintenance & RAM Optimizer
+# Limpeza de Sistema | Windows Native Maintenance & RAM Optimizer
 
 [![Repository](https://img.shields.io/badge/GitHub-limpeza__sistema-181717?style=for-the-badge&logo=github)](https://github.com/HighestCoder/limpeza_sistema)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/HighestCoder/limpeza_sistema)
@@ -11,7 +11,7 @@ Uma solução modular, resiliente e 100% nativa para purga de caches residuais, 
 
 ---
 
-## 🎯 O Problema (Contexto)
+##  O Problema (Contexto)
 
 Para desenvolvedores, engenheiros de dados e profissionais que operam ambientes locais pesados (VS Code, containers Docker, bancos de dados locais, instâncias de LLM e navegadores com dezenas de abas), a manutenção periódica do Windows costuma ser um dilema:
 
@@ -22,7 +22,7 @@ Para desenvolvedores, engenheiros de dados e profissionais que operam ambientes 
 
 ---
 
-## 💡 A Solução (A Abordagem Vibe Coder)
+##  A Solução (A Abordagem Vibe Coder)
 
 Construído a partir de uma sólida bagagem de **Suporte de TI & Infraestrutura**, orquestrando **Engenharia de Prompt e Modelos de Linguagem Avançados**, este projeto demonstra o ápice do movimento *Vibe Coding*: unir visão arquitetural e requisitos estritos de segurança a implementações elegantes, seguras e reproduzíveis.
 
@@ -34,7 +34,7 @@ Construído a partir de uma sólida bagagem de **Suporte de TI & Infraestrutura*
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```text
 limpeza_sistema/
@@ -46,7 +46,7 @@ limpeza_sistema/
 
 ---
 
-## ⚙️ Módulos e Funcionamento Técnico
+##  Módulos e Funcionamento Técnico
 
 | Módulo | Ação Executada | Mecanismo |
 | :--- | :--- | :--- |
@@ -57,7 +57,7 @@ limpeza_sistema/
 
 ---
 
-## 🚀 Instalação e Uso
+##  Instalação e Uso
 
 ### 1. Execução Rápida (1-Click)
 1. Clone ou baixe este repositório:
@@ -79,7 +79,7 @@ Para automatizar a execução de forma programada:
 
 ---
 
-## 📜 Auditoria e Logs
+##  Auditoria e Logs
 
 Após cada execução, consulte o arquivo gerado em:
 ```text
@@ -100,6 +100,6 @@ Exemplo de saída:
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
